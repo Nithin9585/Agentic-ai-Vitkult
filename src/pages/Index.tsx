@@ -540,7 +540,7 @@ const Index = () => {
           <div>
             <h2 className="text-3xl font-semibold gradient-text flex items-center gap-2"><Bot className="h-5 w-5 opacity-70" /> Registration</h2>
             <p className="mt-2 text-muted-foreground text-sm">
-              Who can register? All VIT Bhopal students. Deadline: Sep 5, 11:59 PM IST. Team formation: 1–4. Contact: team@vitkult.example
+              Who can register? All VIT Bhopal students. Deadline: Sep 5, 11:59 PM IST. Team formation: 1–4. Contact: vikultvitb@vitbhopal.ac.in
             </p>
             <div className="mt-4 flex flex-wrap items-center gap-3">
               <Button size="lg" className="glow hover-scale" onClick={handleRegister}>
